@@ -1,5 +1,8 @@
-## Hi there 👋
+## Heyo!👋 I'm Lucas Johnson.
 
+Hey! I'm Lucas, a CS major concentrating in Artificial Intelligence at Northeastern University. Currently, I'm a member of Sandbox at Northeastern, where I have the pleasure to develop SearchNEU, a course review website working out of the Next.js framework. While I'm currently working in web development, I also have a strong passion for everything machine learning and AI; on the side, I'm actively working on my personal AI assistant, Jarvis!
+
+***
 <!--
 **lukej1138/lukej1138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
